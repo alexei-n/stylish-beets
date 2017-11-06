@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: PT+Sans, PT+Serif;
+  font-family: "PT Sans", "PT Serif";
   line-height:1.5;
 }
 
@@ -10,4 +10,8 @@ color: #3f1622
 
 li {
   color: #8f2440
+}
+
+img {
+  width: 100%;
 }
